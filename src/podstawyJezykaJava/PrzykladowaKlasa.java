@@ -5,7 +5,7 @@ import mojPierwszyPakiet.MojaPierwszaKlasaWInteli;
  * Created by adamk on 09.11.2018
  **/
 public class PrzykladowaKlasa {  //deklaracja klasy
-    private MojaPierwszaKlasaWInteli mojaPierwszaKlasaWInteli;  // pola
+    private MojaPierwszaKlasaWInteli mojaPierwszaKlasaWInteli;  // deklaracja pola
     private int x;
     private int y;
 
